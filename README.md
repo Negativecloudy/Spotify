@@ -1,4 +1,5 @@
-# Spotify
+![Logo de Spotify](https://m.media-amazon.com/images/I/51rttY7a+9L.png)
+#Spotify
 Spotify Goodbye ads. Quitar Anuncios De Spotify Free En PC
 
 <!-- HEADER -->
