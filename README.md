@@ -1,4 +1,4 @@
-![Logo de Spotify](https://w7.pngwing.com/pngs/627/501/png-transparent-logo-spotify-visual-communication-identidade-visual-brand-design-text-logo-computer-wallpaper.png)
+![Logo de Spotify](https://blog.tipranks.com/wp-content/uploads/2026/02/aaa-113-750x406.jpg)
 <!-- HEADER -->
 
 <h1 align="center">
