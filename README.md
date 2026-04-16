@@ -112,5 +112,16 @@ spicetify restore backup apply
 
 <h3 align="center">💚 Disfrutá tu música sin interrupciones</h3>
 
+<!-- CRÉDITOS -->
+<h2 align="center">🎨 Créditos</h2>
+
+<p align="center">
+  © 2026 Negativecloudy<br>
+  Todos los derechos reservados<br><br>
+  Diseño y documentación: <b>Negativecloudy</b><br>
+  Inspirado en Spicetify y su comunidad de código abierto<br>
+  <sub>Hecho con ❤️ y música de fondo 🎶</sub>
+</p>
+
 
 
