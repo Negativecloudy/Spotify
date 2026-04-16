@@ -1,4 +1,4 @@
-![Logo de Spotify](https://www.brandemia.org/wp-content/uploads/2013/04/Spotify-logo-2013.png)
+![Logo de Spotify](https://w7.pngwing.com/pngs/627/501/png-transparent-logo-spotify-visual-communication-identidade-visual-brand-design-text-logo-computer-wallpaper.png)
 <!-- HEADER -->
 
 <h1 align="center">
