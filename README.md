@@ -17,7 +17,7 @@
 
 ### 🪟 Windows (PowerShell — Recomendado)
 
-> ⚠️ Ejecutar PowerShell como administrador
+> ⚠️ Ejecutar PowerShell
 
 ```powershell
 iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex
